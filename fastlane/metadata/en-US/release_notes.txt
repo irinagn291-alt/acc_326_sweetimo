@@ -1,0 +1,3 @@
+Initial release.
+
+Tag a jersey number, stamp stat caps on the Sheet, and keep live home and away totals for youth basketball. Add games in Matches, review the box in Insights, Seal when play stops, then Export PDF and Share PDF. Undo last and Play tape help correct mistakes while the game is live. Settings covers Period length, Edit numbers, Contact, and Reset all data. All data stays on this phone.

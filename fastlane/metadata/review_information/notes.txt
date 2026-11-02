@@ -1,0 +1,15 @@
+The app does not request camera, photos, microphone, location, or tracking access, and no permission usage-description strings appear in the build settings. No system permission prompts are shown during normal use.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Sweetimo is a sideline box score for parents and bench volunteers at youth basketball games. You tag a jersey number, then stamp a stat cap so running totals update on the phone. It is a personal scorekeeping tool for the bench, not a broadcast clock or a public feed.
+
+No credentials or demo account are needed. Cold launch shows a three-page intro with the words Sheet, Stamp, and Box, plus Skip and Continue. After Skip or finishing Continue, you land on Sheet. If there is no game yet, tap Add a game to open Matches, enter Home team and Away team, then tap Add game. On Sheet, tag a number on the pin rail, or open Numbers, enter a number from 1 to 99, choose Home side or Away side, and tap Tag number. With a number tagged, hold a cap such as Made two or Rebound to preview it, then release to count it. Use Undo last to drop the latest cap while the game is live, or open Play tape to read every counted cap. Tap Seal, confirm Seal this game?, then open Insights to read the Box. When the game is Sealed, tap Export PDF and Share PDF. Settings includes Period length, Edit numbers, Contact, Show the intro, How a cap counts, and Reset all data.
+
+Game data stays on this phone. Settings shows All data stays on this phone. The only outbound control is Contact in Settings, which opens the support page. Sharing a PDF uses the system share sheet after Export PDF.
+
+Behaviour does not differ by region.
+
+No licence or regulated-industry paperwork applies. This is personal sideline scorekeeping for youth basketball, not a medical, financial, or wagering product.
+
+The app is a personal log only and gives no health, medical, or product-health recommendations.

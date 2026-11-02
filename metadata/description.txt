@@ -1,0 +1,14 @@
+Sweetimo keeps a live youth basketball box score on the sideline. Tag a jersey number, then stamp the stat. Totals add themselves.
+
+• Tag a number on the pin rail or from Numbers, then stamp a cap
+• Caps for Made two, Made three, Free throw, Rebound, Assist, Steal, Block, Foul, and Turnover
+• Hold a cap to preview it, then release to count it
+• Live home and away totals on the Sheet
+• Undo last while the game is live
+• Play tape lists every counted cap, oldest first
+• Matches to add games and optionally enter a typed final score by hand
+• Seal the game, then Export PDF and Share PDF from Insights
+• Settings for Period length, Edit numbers, Contact, Show the intro, How a cap counts, and Reset all data
+• All data stays on this phone
+
+For parents and bench volunteers keeping a personal box score during youth games.
